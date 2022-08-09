@@ -1,16 +1,5 @@
 {
-  "skills": [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "Bootstrap",
-    "jQuery",
-    "Vue",
-    "Python",
-    "Git",
-    "GitHub",
-    "Terminal"
-  ],
+  "skills": ["HTML", "CSS", "JavaScript", "Bootstrap", "jQuery", "Vue"],
   "projects": [
     {
       "id": 1,
