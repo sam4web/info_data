@@ -39,6 +39,19 @@
       "sourceCode": "https://bitbucket.org/samdoescode/luaz/src/",
       "livePreview": "https://luaz-template.netlify.app/",
       "imageLink": ""
+    },
+    {
+      "id": 5,
+      "name": "hously",
+      "sourceCode": "https://bitbucket.org/samdoescode/hously/src/",
+      "livePreview": "https://hously-template.netlify.app/",
+      "imageLink": ""
+    },
+    {
+      "id": 6,
+      "name": "state info",
+      "sourceCode": "https://github.com/sam4web/state_info",
+      "imageLink": ""
     }
   ]
 }
