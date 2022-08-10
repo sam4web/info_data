@@ -15,43 +15,43 @@
     {
       "id": 1,
       "name": "xolcy",
-      "sourceCode": "https://bitbucket.org/samdoescode/xolcy/src/",
-      "livePreview": "https://xolcy-template.netlify.app/",
-      "imageLink": ""
+      "sourceCode": "https://github.com/sam4web/xolcy-template",
+      "livePreview": "https://sam4web.github.io/xolcy-template/",
+      "imageLink": "https://raw.githubusercontent.com/sam4web/xolcy-template/main/project-preview.png"
     },
     {
       "id": 2,
       "name": "socialated",
-      "sourceCode": "https://bitbucket.org/samdoescode/socialated/src/",
-      "livePreview": "https://socialated-template.netlify.app/",
-      "imageLink": ""
+      "sourceCode": "https://github.com/sam4web/socialated-template",
+      "livePreview": "https://sam4web.github.io/socialated-template/",
+      "imageLink": "https://github.com/sam4web/socialated-template/raw/main/project-preview.png"
     },
     {
       "id": 3,
       "name": "monst",
-      "sourceCode": "https://bitbucket.org/samdoescode/monst/src/",
-      "livePreview": "https://monst-template.netlify.app/",
-      "imageLink": ""
+      "sourceCode": "https://github.com/sam4web/monst-template",
+      "livePreview": "https://sam4web.github.io/monst-template/",
+      "imageLink": "https://raw.githubusercontent.com/sam4web/monst-template/main/project-preview.png"
     },
     {
       "id": 4,
       "name": "luaz",
-      "sourceCode": "https://bitbucket.org/samdoescode/luaz/src/",
-      "livePreview": "https://luaz-template.netlify.app/",
-      "imageLink": ""
+      "sourceCode": "https://github.com/sam4web/luaz-template",
+      "livePreview": "https://sam4web.github.io/luaz-template/",
+      "imageLink": "https://raw.githubusercontent.com/sam4web/luaz-template/main/project-preview.png"
     },
     {
       "id": 5,
       "name": "hously",
-      "sourceCode": "https://bitbucket.org/samdoescode/hously/src/",
-      "livePreview": "https://hously-template.netlify.app/",
-      "imageLink": ""
+      "sourceCode": "https://github.com/sam4web/hously-template",
+      "livePreview": "https://sam4web.github.io/hously-template/",
+      "imageLink": "https://raw.githubusercontent.com/sam4web/hously-template/main/project-preview.png"
     },
     {
       "id": 6,
       "name": "state info",
       "sourceCode": "https://github.com/sam4web/state_info",
-      "imageLink": ""
+      "imageLink": "https://raw.githubusercontent.com/sam4web/state_info/main/project-preview.png"
     }
   ]
 }
