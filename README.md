@@ -1,1 +1,1 @@
-[JSON url](https://sam4web.github.io/data/data.json)
+[JSON URL](https://sam4web.github.io/info_data/data.json)
