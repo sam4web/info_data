@@ -53,5 +53,16 @@
       "sourceCode": "https://github.com/sam4web/state_info",
       "imageLink": "https://raw.githubusercontent.com/sam4web/state_info/main/project-preview.png"
     }
+  ],
+  "social": [
+    { "icon": "fa-brands fa-github", "link": "https://github.com/sam4web" },
+    {
+      "icon": "fa-brands fa-facebook",
+      "link": "https://www.facebook.com/profile.php?id=100084842116288"
+    },
+    {
+      "icon": "fa-brands fa-linkedin",
+      "link": "https://www.linkedin.com/in/sijal-manandhar-9914b6247/"
+    }
   ]
 }
